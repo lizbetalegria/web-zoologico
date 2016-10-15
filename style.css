@@ -1,0 +1,27 @@
+body{
+	background-color: #BEF781;
+}
+.color-titulo{
+	color: #0B3B0B;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: cursive;
+}
+.parrafo{
+	color: #0080FF;
+	font-weight: bold;
+	line-height: 20px;
+}
+.borde-img{
+	border: #FFFF00 8PX double;
+	padding: 2px;
+	margin-top: 20px;
+	text-align: center;
+}
+.titulos{
+	color: #B40404;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
